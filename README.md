@@ -12,7 +12,7 @@ I work at the intersection of **cybersecurity, national security, and resilient 
 | [Hyperlink Extractor](https://github.com/pqexpert/extract-links) | Local extraction of link labels and URLs from DOCX, ODT, HTML, and PDF documents into portable data. |
 | [School in a Box](https://github.com/pqexpert/school-in-a-box) | An offline learning and teaching starter kit with an Amdo Tibetan–English course library and adaptable planning templates. |
 
-[Explore the School in a Box demo](https://pqexpert.io/school-in-a-box/). The project is an early starter kit; its language material is published for educator review.
+School in a Box is an early starter kit; its language material is published for educator review. The repository includes download and local-preview instructions.
 
 ## Research directions
 
